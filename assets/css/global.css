@@ -156,14 +156,14 @@
     --fs-680:	    42.5rem;
 
     /* Theme Colors */
-    --color-primary:        #E13833;
+    --color-primary:        #00C6F7;
     --color-primary-rgb:      225, 56, 51;
-    --color-one:            #E13833;
+    --color-one:            #00C6F7;
     --color-one-rgb:          225, 56, 51;
 
-    --color-secondary:      #162842;
+    --color-secondary:      #172B5B;
     --color-secondary-rgb:    22, 40, 66;
-    --color-two:            #162842;
+    --color-two:            #172B5B;
     --color-two-rgb:          22, 40, 66;
 
     --color-three:          #666666;
@@ -187,9 +187,9 @@
 
     --color-muted:          #586563; 
 
-    --link-color: #E13833;
-    --link-color-hover: #162842;
-    --link-color-active: #162842;
+    --link-color: #00C6F7;
+    --link-color-hover: #172B5B;
+    --link-color-active: #172B5B;
     --gradient-color-from: #00C6FF;
     --gradient-color-to: #0072FF;
 
