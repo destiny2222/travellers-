@@ -215,12 +215,12 @@
     .mr_menu_toggle {
         margin-left: 10px;
     }
-    .aside_open {
+    .aside_open d-xl-none {
         width: 36px;
         height: 36px;
         padding: 0px;
     }
-    .aside_open img {
+    .aside_open d-xl-none img {
         max-width: 14px;
     }
 

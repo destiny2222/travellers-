@@ -78,7 +78,7 @@ Description: Immigration & Visa Solutions
     
 
         // Aside info bar
-        $('.aside_open').on("click", function(e) {
+        $('.aside_open d-xl-none').on("click", function(e) {
             e.preventDefault();
             $('.aside_info_wrapper').addClass('show');
         });
