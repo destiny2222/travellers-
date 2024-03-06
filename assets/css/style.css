@@ -1742,3 +1742,7 @@
     color: #00D0FF;
     font-weight: 800;
 }
+
+.wptb-item-service-description{
+    text-align: justify;
+}
