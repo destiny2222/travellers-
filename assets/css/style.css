@@ -1737,3 +1737,8 @@
     background-color: var(--color-two);
     border-radius: 50%;
 }
+
+.terms h6{
+    color: #00D0FF;
+    font-weight: 800;
+}
